@@ -6,9 +6,9 @@ const Navbar = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
-          <Link className="nav-link" to-current="page" to="/">
+          <h1>
             MonkeyMedia
-          </Link>
+          </h1>
           <button
             className="navbar-toggler"
             type="button"
